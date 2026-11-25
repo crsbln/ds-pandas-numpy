@@ -137,3 +137,13 @@ Then open a notebook and select the Python environment created by `uv sync` as t
 - [**NumPy Quickstart**](https://numpy.org/doc/stable/user/quickstart.html): Official primer on arrays, shapes, and vectorized operations.
 - [**Python Plotting With Matplotlib (Real Python)**](https://realpython.com/python-matplotlib-guide/): A clear, practical guide to Matplotlib's figure/axes model and its integration with pandas.
 - [**Kaggle Learn Pandas**](https://www.kaggle.com/learn/pandas): A free hands-on course that applies pandas to real datasets.
+
+## My work
+
+Done on 2026-11-25 as a delegated pass by Claude (owner review pending):
+
+- Every exercise cell in the root notebooks is solved, with short plain-word comments and written answers
+  to the open questions (`1_Pandas/02`-`05`, `2_Numpy/02`, `3_More_Pandas/01`-`03`). `solutions/` is untouched.
+- All root notebooks and `Live_session.ipynb` were run top to bottom (pandas 3.0.3, NumPy 2.4.6) and keep their outputs.
+  `1_Pandas/01` keeps one intended `ValueError` (the lesson shows it on purpose).
+- A visual beginner guide to this repo: `W03 Pandas and NumPy (ds-pandas-numpy).pdf` (Dropbox, `Neue Fische/PDF Tutor Guides`).
